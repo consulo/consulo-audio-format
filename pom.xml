@@ -40,7 +40,4 @@
         </repository>
     </repositories>
 
-    <modules>
-        <module>mp3</module>
-    </modules>
 </project>
