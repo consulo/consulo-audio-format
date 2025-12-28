@@ -70,11 +70,11 @@
 
     <dependencies>
         <dependency>
-            <groupId>consulo.internal.sound</groupId>
-            <artifactId>flac</artifactId>
-            <version>0.4</version>
+            <groupId>org.jflac</groupId>
+            <artifactId>jflac-codec</artifactId>
+            <version>1.6</version>
         </dependency>
-        
+
         <dependency>
             <groupId>consulo.plugin</groupId>
             <artifactId>consulo.audio</artifactId>

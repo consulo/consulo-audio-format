@@ -5,7 +5,7 @@
 module consulo.audio.format.flac {
     requires consulo.component.api;
 
-    requires java.flac.encoder;
+    requires jflac.codec;
 
     requires java.desktop;
 }
