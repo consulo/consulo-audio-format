@@ -1,0 +1,11 @@
+<consulo-plugin url="https://github.com/consulo/consulo-audio-format">
+    <id>consulo.audio.format.mp3</id>
+    <name>Audio Format: mp3</name>
+    <version>SNAPSHOT</version>
+    <category>Audio</category>
+    <tags>
+        <tag>library</tag>
+    </tags>
+
+    <depends>consulo.audio</depends>
+</consulo-plugin>
